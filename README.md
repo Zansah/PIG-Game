@@ -1,0 +1,1 @@
+Welcome to the Pig Game. In this game players take turns rolling a six-sided die, accumlating points towards the winning score. if a player rolls a 1, they lose all points gain during that round, and their turns end.
